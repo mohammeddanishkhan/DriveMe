@@ -1,0 +1,8 @@
+A java based car pooling, web application--DriveMe
+Application is developed in Spring Boot, Spring MVC, Spring JDBC.
+
+Users can come and register themselves.
+Post registration, every user can act as either a ride service provider or a ride requester.
+Ride service provider, will provide the details of his ride i.e ride start point and start time and, ride end point point and end time.
+Ride requester will enter his start and end points. And accordingly he will see list of rides matching his start and end point 
+and he can select any one the available offers.
